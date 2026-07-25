@@ -1,5 +1,5 @@
 <!-- ========================================================================================= -->
-<!--                      BEGINNER-FRIENDLY GITHUB PROFILE README - VIVEK SURESH               -->
+<!--                           GITHUB PROFILE README - VIVEK SURESH                            -->
 <!-- ========================================================================================= -->
 
 <div align="center">
@@ -8,15 +8,15 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Healthcare+AI+Enthusiast;Building+Vital+Insights+Hub;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI+Engineer;Ex-SDET+Intern+%40+Barracuda+Networks;Building+AI-First+HCP+CRM;Building+Vital+Insights+Hub" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Social Badges -->
+  <!-- Cohesive Dark Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/vivek-suresh-30638025a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/viveksuresh1" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -29,95 +29,101 @@
 
 ### 👋 Welcome to My GitHub!
 
-I'm **Vivek Suresh**, an aspiring **Full-Stack & AI Engineer** passionate about building privacy-preserving machine learning applications and modern web platforms. I love exploring new technologies, solving complex challenges, and turning ideas into clean, functional code.
+I'm **Vivek Suresh**, a **Full-Stack, AI & SDET Engineer** passionate about building intelligent conversational applications, privacy-preserving machine learning platforms, and enterprise automation frameworks.
 
 ```yaml
 Developer Profile:
   Name: Vivek Suresh
-  Goal: Build high-impact AI and full-stack software
-  Focus Areas: Healthcare AI, Privacy-Preserving ML, Modern Web Architectures
-  Current Learning Journey: Advanced Federated Learning & System Design 🚀
+  Experience: SDET Intern @ Barracuda Networks (10 Months)
+  Focus Areas: AI Agents (LangGraph/LLMs), Real-time WebSockets, Healthcare AI & E2E Testing
+  Core Tech: Python, FastAPI, LangGraph, React, Redux, Playwright, PyTorch & PostgreSQL 🚀
 ```
+
+---
+
+### 💼 Experience
+
+#### 🛡️ **Software Development Engineer in Test (SDET) Intern** — *Barracuda Networks* `(10 Months)`
+- **Product**: Email Gateway Defense (EGD) enterprise security suite.
+- **Automation Framework**: Developed and maintained end-to-end browser automation using **Python, Playwright, and Pytest** with the **Page Object Model (POM)** pattern.
+- **API & CI Integration**: Automated test execution result uploads to **Jira Xray** via REST APIs and configured interactive **Allure Reports**.
+- **DevOps & QA Workflows**: Containerized test suites using **Docker, Kubernetes**, and CI/CD pipelines for automated regression testing.
+- **AI-Assisted Engineering**: Integrated **Claude Code** and AI tools into daily workflows to accelerate test refactoring, bug reproduction, and codebase analysis.
 
 ---
 
 ### 🌟 Featured Projects
 
-Here are a few projects I'm actively building and refining:
-
 <table border="0">
   <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-First HCP CRM</h3>
+      <p>A full-stack conversational CRM for pharmaceutical reps to log interactions using natural language. Powered by <b>LangGraph AI agents</b>, <b>Groq LLM tool-calling</b>, <b>FastAPI</b>, and <b>WebSockets</b> for real-time state syncing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Groq_LLM-1E293B?style=flat-square&logo=openai&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/WebSockets-1E293B?style=flat-square&logo=socketdotio&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Redux-1E293B?style=flat-square&logo=redux&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+      </p>
+      <a href="https://github.com/viveksuresh1/AI-First-CRM-HCP">👉 <b>Explore AI-First HCP CRM Repo</b></a>
+    </td>
     <td width="50%" valign="top">
       <h3>🏥 Vital Insights Hub</h3>
       <p>An <b>Adaptive Weighted Federated Deep Learning (AWFDL)</b> system for ICU mortality prediction, integrating <b>Paillier Homomorphic Encryption</b> for privacy preservation.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=38BDF8" />
       </p>
-      <a href="https://github.com/viveksuresh1/vital-insights-hub">👉 <b>Explore Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ E-Commerce Platform</h3>
-      <p>A full-stack, containerized e-commerce application featuring microservices architecture, payment workflows, and administrative dashboards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <a href="https://github.com/viveksuresh1/e-commerce-platform">👉 <b>Explore Repository</b></a>
+      <a href="https://github.com/viveksuresh1/vital-insights-hub">👉 <b>Explore Vital Insights Hub Repo</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Languages & Skills
+### 🛠️ Languages & Technical Stack
 
-#### 💻 Languages & Fundamentals
+#### 🤖 AI Agents & Full-Stack
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=38BDF8" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Groq_LLM-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Groq LLM" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-0F172A?style=for-the-badge&logo=redux&logoColor=38BDF8" alt="Redux" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-for-the-badge&logo=pytorch&logoColor=38BDF8" alt="PyTorch" />
 </p>
 
-#### ⚡ Frameworks & Web Tech
+#### 🧪 Test Automation & Quality Engineering
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=38BDF8" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Pytest-0F172A?style=for-the-badge&logo=pytest&logoColor=38BDF8" alt="Pytest" />
+  <img src="https://img.shields.io/badge/WebSockets-0F172A?style=for-the-badge&logo=socketdotio&logoColor=38BDF8" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=postman&logoColor=38BDF8" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Jira_Xray-0F172A?style=for-the-badge&logo=jira&logoColor=38BDF8" alt="Jira Xray" />
 </p>
 
-#### ☁️ Databases & Infrastructure
+#### ☁️ Cloud, Databases & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
+  <img src="https://img.shields.io/badge/Claude_Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=38BDF8" alt="Claude Code" />
 </p>
-
----
-
-### 🌱 Goals & Growth Roadmap
-
-- 🎯 **Short-term**: Master Federated Learning models and privacy-preserving ML pipelines.
-- 🚀 **Mid-term**: Contribute to open-source developer tools and AI frameworks.
-- 💡 **Always**: Write clean, self-documenting code and share learnings with the community.
 
 ---
 
 <div align="center">
   <p><i>"Every great developer started with line 1 of hello world."</i> 🚀</p>
   <a href="https://www.linkedin.com/in/vivek-suresh-30638025a" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
