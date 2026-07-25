@@ -1,16 +1,17 @@
+<!-- ========================================================================================= -->
+<!--                      BEGINNER-FRIENDLY GITHUB PROFILE README - VIVEK SURESH               -->
+<!-- ========================================================================================= -->
+
 <div align="center">
 
-  <!-- Header Banner Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Hi%20there,%20I'm%20Vivek%20Suresh%20👋&fontSize=40&fontAlign=50&fontAlignY=35&desc=Passionate%20Full-Stack%20%26%20AI%20Developer%20%7C%20Continuous%20Learner&descAlign=50&descAlignY=65" width="100%" alt="Header Banner" />
-
-  <br />
+  <h1>Hi there, I'm Vivek Suresh 👋</h1>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Healthcare+AI+Enthusiast;Building+Vital+Insights+Hub;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 
-  <br />
+  <br /><br />
 
   <!-- Social Badges & Profile Views -->
   <p align="center">
